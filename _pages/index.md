@@ -17,7 +17,7 @@ permalink: /
 ### 出身地
 大阪府→枚方市
 
-
+![image](../assets/images/hirakata.png)
 
 
 
