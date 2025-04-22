@@ -1,11 +1,11 @@
 ---
-title: "推しについて"
+title: "自分について"
 author: default
 permalink: /
 ---
+** #　名前:陽斗**
 
 
-こんばんは
 
 
 
