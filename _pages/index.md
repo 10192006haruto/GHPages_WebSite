@@ -5,12 +5,17 @@ permalink: /
 ---
 
 
-# サカナクションの宣伝プロモーション
+# サカナクションの紹介
 
 <img src="../assets/images/sakanaction.png" alt="サカナクションの宣伝">
 
 
 
+
+
+
+
+[リンク]([https://www.](https://sakanaction.jp/))
 
 ---
 
