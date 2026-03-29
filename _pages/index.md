@@ -15,7 +15,7 @@ permalink: /
 
 
 
-[リンク](https://sakanaction.jp/)
+[サカナクションのリンク](https://sakanaction.jp/)
 
 ---
 
