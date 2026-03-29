@@ -1,4 +1,8 @@
-
+---
+title: "初めてのWebサイト公開！"
+author: haruto
+permalink: /
+---
 
 # サカナクションの紹介
 
