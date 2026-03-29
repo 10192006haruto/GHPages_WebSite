@@ -49,3 +49,4 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
+<img src="../assets/images/logo-150.png">
