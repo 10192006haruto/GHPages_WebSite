@@ -6,7 +6,7 @@ permalink: /
 
 # サカナクションの紹介
 
-<img src="../assets/images/sakanaction.png" alt="サカナクションの宣伝">
+<img src="/GHPages_WebSite/assets/images/sakanaction.png" alt="サカナクションの宣伝">
 
 
 
