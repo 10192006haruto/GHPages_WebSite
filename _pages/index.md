@@ -1,12 +1,14 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "初めてのWebサイト公開！"
+author: haruto
 permalink: /
 ---
 
 
-こんばんは
+こんばんは 
 
+# ウワー
+## ウーわー
 
 
 ---
