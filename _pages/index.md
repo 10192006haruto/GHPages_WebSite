@@ -8,7 +8,7 @@ permalink: /
 
 <img src="/GHPages_WebSite/assets/images/sakanaction.png" alt="サカナクションの宣伝">
 
-![image](assets/images/logo-150.png)
+![image](/../assets/images/logo-150.png)
 
 
 
