@@ -4,21 +4,16 @@ author: ふら
 permalink: /
 ---
 
-# サカナクションの紹介
+# __名前：ふら__
 
-<img src="/GHPages_WebSite/assets/images/sakanaction.png" alt="サカナクションの宣伝">
+## 私の好きなこと
+  - 音楽： サカナクション (なんてったって春, プラトー), King Gnu (Teenager Forever, 飛行艇), などなど
+  - Youtube： 山口一郎, ホロライブ (星街すいせい, 轟はじめ, 儒烏風亭らでん), などなど
 
-![image](../assets/images/logo-150.png)
-
-
-
-
-
-[サカナクションのリンク](https://sakanaction.jp/)
-
+## a
 ---
 
-# 
+# a
 
 以下テンプレート
 
