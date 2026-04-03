@@ -1,7 +1,7 @@
 ---
 title: "初めてのWebサイト公開！"
 author: ふら
-permalink: [X(旧Twitter)](https://x.com/home?lang=ja)
+permalink: /
 ---
 
 # サカナクションの紹介
