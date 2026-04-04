@@ -26,7 +26,7 @@ defaults:
     values:
       header:
         overlay_image: /assets/images/sakanaction.png
-        overlay_filter: 1
+        overlay_filter: 0.2
   # pages
   - scope:
       path: ""
