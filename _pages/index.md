@@ -1,6 +1,6 @@
 ---
 title: "初めてのWebサイト公開！"
-author: default
+author: "ふら"
 permalink: /
 ---
 
