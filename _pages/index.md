@@ -14,6 +14,9 @@ permalink: /
     1. 香川
     2. 岡山
     3. 滋賀
+<img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/785c89a4-6bf0-4939-af18-99a9e29e0a6d" />
+<img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/eea0a5d3-cb86-4968-a1dc-3b2d7b02c77c" />
+
 
 ## 大学からプログラミングを始めました
   - 学んだ言語
